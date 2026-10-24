@@ -14,7 +14,8 @@ st.set_page_config(page_title="Macro Terminal: Semi Cycle V2", layout="wide")
 st.markdown("""
 <style>
     .stApp { font-family: 'Courier New', monospace; }
-    h1, h2, h3, h4 { color: #38bdf8; }
+    h1 { color: #ef4444; }
+    h2, h3, h4 { color: #38bdf8; }
 </style>
 """, unsafe_allow_html=True)
 
